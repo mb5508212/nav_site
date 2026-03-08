@@ -55,6 +55,13 @@ export const mockData = {
           "url": "https://www.lednets.com/",
           "description": "卡莱特云",
           "icon": "https://www.faviconextractor.com/favicon/www.lednets.com"
+        },
+        {
+          "id": "site-1772979925677",
+          "name": "凯视达",
+          "url": "https://kystar.net/",
+          "description": "凯视达",
+          "icon": ""
         }
       ]
     },
