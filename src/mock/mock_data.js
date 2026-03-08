@@ -46,14 +46,14 @@ export const mockData = {
           "id": "site-1772896553302",
           "name": "诺瓦",
           "url": "https://www.novastar-led.cn/",
-          "description": "诺瓦星云",
+          "description": "西安诺瓦星云股份有限公司",
           "icon": "https://www.faviconextractor.com/favicon/www.novastar-led.cn"
         },
         {
           "id": "site-1772896613508",
           "name": "卡莱特",
           "url": "https://www.lednets.com/",
-          "description": "卡莱特云",
+          "description": "卡莱特云科技股份有限公司",
           "icon": "https://www.faviconextractor.com/favicon/www.lednets.com"
         },
         {
@@ -62,6 +62,41 @@ export const mockData = {
           "url": "https://kystar.net/",
           "description": "凯视达",
           "icon": ""
+        },
+        {
+          "id": "site-1772980031269",
+          "name": "摩西尔",
+          "url": "https://www.mooncell.com.cn/",
+          "description": "深圳摩西尔电子有限公司-LED显示屏解决方案提供商",
+          "icon": "https://www.faviconextractor.com/favicon/www.mooncell.com.cn"
+        },
+        {
+          "id": "site-1772980171796",
+          "name": "仰邦",
+          "url": "https://www.onbonbx.com/",
+          "description": "仰邦科技官网,锻造全系列工业级LED控制器",
+          "icon": "https://www.faviconextractor.com/favicon/www.onbonbx.com"
+        },
+        {
+          "id": "site-1772980220750",
+          "name": "中航",
+          "url": "https://www.zhonghangled.com/",
+          "description": "郑州中航软件开发有限公司",
+          "icon": "https://www.faviconextractor.com/favicon/www.zhonghangled.com"
+        },
+        {
+          "id": "site-1772980267455",
+          "name": "灵星雨",
+          "url": "https://www.linsn.com/",
+          "description": "灵星雨科技",
+          "icon": "https://www.faviconextractor.com/favicon/www.linsn.com"
+        },
+        {
+          "id": "site-1772980300678",
+          "name": "瑞合信",
+          "url": "http://www.rhxled.com/",
+          "description": "瑞合信官网",
+          "icon": "https://www.faviconextractor.com/favicon/www.rhxled.com"
         }
       ]
     },
