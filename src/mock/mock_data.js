@@ -108,9 +108,9 @@ export const mockData = {
         {
           "id": "site-1772980793633",
           "name": "华柏",
-          "url": "https://www.huaby.com/index",
+          "url": "https://www.huaby.com/",
           "description": "沈阳华柏软件科技有限公司",
-          "icon": "https://www.faviconextractor.com/favicon/www.huaby.com"
+          "icon": "https://www.faviconextractor.com/favicon/huaby.com"
         },
         {
           "id": "site-1772980876590",
@@ -138,7 +138,7 @@ export const mockData = {
           "name": "迈普视通",
           "url": "https://www.magnimage.com.cn/",
           "description": "迈普视通科技有限公司",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/magnimage.com.cn"
         },
         {
           "id": "site-1772981824627",
@@ -279,7 +279,6 @@ export const mockData = {
       ]
     }
   ],
-  "title": "LED导航",
-  "search": "baidu",
-  "_fileSha": "92efa7472de791fdcfa7a87fc869074e7ecfac0b"
+  "title": "猫猫导航🐱",
+  "search": "baidu"
 }
