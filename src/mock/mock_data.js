@@ -1,45 +1,9 @@
 export const mockData = {
   "categories": [
     {
-      "id": "my-favorites",
-      "name": "我的常用",
-      "icon": "💥",
-      "order": 0,
-      "sites": [
-        {
-          "id": "site-1752649007053",
-          "name": "百度",
-          "url": "https://www.baidu.com/",
-          "description": "最大中文搜索引擎",
-          "icon": "https://www.faviconextractor.com/favicon/www.baidu.com"
-        },
-        {
-          "id": "linux-do",
-          "name": "谷歌",
-          "url": "https://www.google.com",
-          "description": "全球最大搜索引擎",
-          "icon": "https://www.faviconextractor.com/favicon/www.google.com"
-        },
-        {
-          "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
-          "icon": "/sitelogo/chatgpt.com.ico"
-        },
-        {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
-        }
-      ]
-    },
-    {
       "id": "category-1772896469260",
       "icon": "💻",
-      "name": "控制系统",
+      "name": "LED控制系统",
       "order": 1,
       "sites": [
         {
@@ -157,10 +121,46 @@ export const mockData = {
       ]
     },
     {
+      "id": "my-favorites",
+      "name": "搜索引擎",
+      "icon": "🔍",
+      "order": 2,
+      "sites": [
+        {
+          "id": "site-1752649007053",
+          "name": "百度",
+          "url": "https://www.baidu.com/",
+          "description": "最大中文搜索引擎",
+          "icon": "https://www.faviconextractor.com/favicon/www.baidu.com"
+        },
+        {
+          "id": "linux-do",
+          "name": "谷歌",
+          "url": "https://www.google.com",
+          "description": "全球最大搜索引擎",
+          "icon": "https://www.faviconextractor.com/favicon/www.google.com"
+        },
+        {
+          "id": "site-1752857783656",
+          "name": "OpenAI",
+          "url": "https://chatgpt.com",
+          "description": "OpenAI,好用👌",
+          "icon": "/sitelogo/chatgpt.com.ico"
+        },
+        {
+          "id": "github",
+          "name": "GitHub",
+          "url": "https://github.com",
+          "description": "代码托管平台",
+          "icon": "/sitelogo/github.com.ico"
+        }
+      ]
+    },
+    {
       "id": "ai-tools",
       "name": "AI智能",
       "icon": "🤖",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "chatgpt",
@@ -203,14 +203,14 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 3,
+      "order": 4,
       "sites": []
     },
     {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "bilibili",
@@ -246,7 +246,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "notion",
@@ -280,6 +280,5 @@ export const mockData = {
     }
   ],
   "title": "LED导航",
-  "search": "baidu",
-  "_fileSha": "0d423a75c37e0f70fa9551843ee48d328a24a2ce"
+  "search": "baidu"
 }
