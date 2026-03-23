@@ -3,7 +3,7 @@ export const mockData = {
     {
       "id": "category-1772896469260",
       "icon": "💻",
-      "name": "LED控制系统",
+      "name": "LED控制系统厂家",
       "order": 1,
       "sites": [
         {
