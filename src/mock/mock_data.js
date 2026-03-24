@@ -153,6 +153,13 @@ export const mockData = {
           "url": "http://www.lumenchina.com/",
           "description": "深圳市流明电子有限公司",
           "icon": ""
+        },
+        {
+          "id": "site-1774334037613",
+          "name": "嗨动",
+          "url": "https://www.hynamic.cn/",
+          "description": "HYNAMIC-嗨动视频",
+          "icon": "https://www.faviconextractor.com/favicon/www.hynamic.cn"
         }
       ]
     },
