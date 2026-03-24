@@ -8,24 +8,24 @@ export const mockData = {
       "sites": [
         {
           "id": "notion",
-          "name": "Notion",
-          "url": "https://www.notion.so",
-          "description": "全能工作空间",
-          "icon": "/sitelogo/www.notion.so.ico"
+          "name": "诺瓦资料库",
+          "url": "http://gts.novastar.tech:6150/sharing/oLGDYny5E",
+          "description": "诺瓦资料库",
+          "icon": ""
         },
         {
           "id": "slack",
-          "name": "Slack",
-          "url": "https://slack.com",
-          "description": "团队协作工具",
-          "icon": "/sitelogo/slack.com.ico"
+          "name": "嗨动资料库",
+          "url": "http://gts.novastar.tech:6150/sharing/b1gAo8iyx",
+          "description": "嗨动资料库",
+          "icon": ""
         },
         {
           "id": "trello",
-          "name": "Trello",
-          "url": "https://trello.com",
-          "description": "项目管理工具",
-          "icon": "/sitelogo/trello.com.ico"
+          "name": "屏老板",
+          "url": "https://www.pingboss.com/",
+          "description": "开户显示屏运维管理新时代|屏老板",
+          "icon": ""
         },
         {
           "id": "feishu",
