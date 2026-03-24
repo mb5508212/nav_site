@@ -29,10 +29,10 @@ export const mockData = {
         },
         {
           "id": "feishu",
-          "name": "飞书",
-          "url": "https://www.feishu.cn",
-          "description": "企业协作平台",
-          "icon": "/sitelogo/www.feishu.cn.ico"
+          "name": "屏精灵",
+          "url": "https://www.vnnox.com/",
+          "description": "屏精灵信息发布平台（原VNNOX云平台）",
+          "icon": "https://www.faviconextractor.com/favicon/www.vnnox.com"
         }
       ]
     },
