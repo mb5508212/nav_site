@@ -14,13 +14,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "slack",
-          "name": "嗨动资料库",
-          "url": "http://gts.novastar.tech:6150/sharing/b1gAo8iyx",
-          "description": "嗨动资料库",
-          "icon": ""
-        },
-        {
           "id": "trello",
           "name": "屏老板",
           "url": "https://www.pingboss.com/",
