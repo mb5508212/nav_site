@@ -160,6 +160,13 @@ export const mockData = {
           "url": "https://www.hynamic.cn/",
           "description": "HYNAMIC-嗨动视频",
           "icon": "https://www.faviconextractor.com/favicon/www.hynamic.cn"
+        },
+        {
+          "id": "site-1775892746553",
+          "name": "南京聚诚",
+          "url": "http://www.led880.com/",
+          "description": "南京聚诚电子科技有限公司-视频拼接器-视频一体机-发送卡",
+          "icon": ""
         }
       ]
     },
