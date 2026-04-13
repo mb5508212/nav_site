@@ -181,6 +181,13 @@ export const mockData = {
           "url": "https://www.ledok.cn/",
           "description": "上海熙讯电子科技有限公司",
           "icon": ""
+        },
+        {
+          "id": "site-1776090463761",
+          "name": "新翼",
+          "url": "http://led75.com/",
+          "description": "广州新翼LED显示屏控制卡",
+          "icon": ""
         }
       ]
     },
