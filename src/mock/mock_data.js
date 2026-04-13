@@ -160,6 +160,20 @@ export const mockData = {
           "url": "http://www.led880.com/",
           "description": "南京聚诚电子科技有限公司-视频拼接器-视频一体机-发送卡",
           "icon": ""
+        },
+        {
+          "id": "site-1776090059986",
+          "name": "励研科技",
+          "url": "http://www.lytec.cn/",
+          "description": "LED控制卡 LED控制器 LED显示屏 3G显示屏 GPRS显示屏 短信显示屏 无线显示屏 LED大屏幕",
+          "icon": ""
+        },
+        {
+          "id": "site-1776090260051",
+          "name": "诣阔",
+          "url": "http://www.eqled.com/",
+          "description": "上海诣阔软件有限公司",
+          "icon": ""
         }
       ]
     },
