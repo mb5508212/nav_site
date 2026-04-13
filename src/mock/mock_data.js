@@ -188,6 +188,13 @@ export const mockData = {
           "url": "http://led75.com/",
           "description": "广州新翼LED显示屏控制卡",
           "icon": ""
+        },
+        {
+          "id": "site-1776090616074",
+          "name": "丽明",
+          "url": "http://www.mc100.com.cn/",
+          "description": "北京丽明科技有限公司 - LED控制系统解决方案",
+          "icon": ""
         }
       ]
     },
