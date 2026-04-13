@@ -174,6 +174,13 @@ export const mockData = {
           "url": "http://www.eqled.com/",
           "description": "上海诣阔软件有限公司",
           "icon": ""
+        },
+        {
+          "id": "site-1776090331654",
+          "name": "熙讯",
+          "url": "https://www.ledok.cn/",
+          "description": "上海熙讯电子科技有限公司",
+          "icon": ""
         }
       ]
     },
