@@ -202,13 +202,6 @@ export const mockData = {
           "url": "http://www.mc100.com.cn/",
           "description": "北京丽明科技有限公司 - LED控制系统解决方案",
           "icon": ""
-        },
-        {
-          "id": "site-1776128640394",
-          "name": "聚诚",
-          "url": "http://www.led880.com/",
-          "description": "南京聚诚电子科技有限公司-视频拼接器-视频一体机-发送卡",
-          "icon": ""
         }
       ]
     },
