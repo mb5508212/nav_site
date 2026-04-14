@@ -85,6 +85,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.hynamic.cn"
         },
         {
+          "id": "site-1776183754432",
+          "name": "唯奥",
+          "url": "http://www.videowall.cn/",
+          "description": "深圳市唯奥视讯技术有限公司",
+          "icon": ""
+        },
+        {
           "id": "site-1772980171796",
           "name": "仰邦",
           "url": "https://www.onbonbx.com/",
