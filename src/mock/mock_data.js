@@ -17,7 +17,7 @@ export const mockData = {
           "id": "trello",
           "name": "屏老板",
           "url": "https://www.pingboss.com/",
-          "description": "开户显示屏运维管理新时代|屏老板",
+          "description": "开启显示屏运维管理新时代|屏老板",
           "icon": ""
         },
         {
@@ -26,6 +26,13 @@ export const mockData = {
           "url": "https://www.vnnox.com/",
           "description": "屏精灵信息发布平台（原VNNOX云平台）",
           "icon": "https://www.faviconextractor.com/favicon/www.vnnox.com"
+        },
+        {
+          "id": "site-1776128946798",
+          "name": "羽控资料库",
+          "url": "http://nas.yukit.com.cn:7000/#/signin",
+          "description": "羽控资料库",
+          "icon": ""
         }
       ]
     },
