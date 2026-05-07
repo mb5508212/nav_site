@@ -219,13 +219,6 @@ export const mockData = {
       "order": 2,
       "sites": [
         {
-          "id": "site-1778118665119",
-          "name": "仰邦iLEDCloud",
-          "url": "https://www.iledcloud.cn/indexC.html",
-          "description": "iLEDCloud-引领LED显示屏进入云管理时代",
-          "icon": "https://www.faviconextractor.com/favicon/www.iledcloud.cn"
-        },
-        {
           "id": "site-1778118797422",
           "name": "诺瓦 屏精灵",
           "url": "https://cn.pingjl.com/#/login",
@@ -245,6 +238,20 @@ export const mockData = {
           "url": "https://xiaohuiyun.cc/",
           "description": "灰度「小灰云星空」- 数字化门店管理平台",
           "icon": "https://xiaohuiyun.cc/favicon.ico"
+        },
+        {
+          "id": "site-1778118665119",
+          "name": "仰邦iLEDCloud",
+          "url": "https://www.iledcloud.cn/indexC.html",
+          "description": "iLEDCloud-引领LED显示屏进入云管理时代",
+          "icon": "https://www.faviconextractor.com/favicon/www.iledcloud.cn"
+        },
+        {
+          "id": "site-1778119210976",
+          "name": "凯视达 Kares",
+          "url": "https://admin.kystarcloud.com/login",
+          "description": "凯视达 Kares",
+          "icon": "https://admin.kystarcloud.com/favicon.ico"
         }
       ]
     },
