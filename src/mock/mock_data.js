@@ -213,10 +213,46 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1778118563605",
+      "icon": "🌐",
+      "name": "云平台",
+      "order": 2,
+      "sites": [
+        {
+          "id": "site-1778118665119",
+          "name": "仰邦iLEDCloud",
+          "url": "https://www.iledcloud.cn/indexC.html",
+          "description": "iLEDCloud-引领LED显示屏进入云管理时代",
+          "icon": "https://www.faviconextractor.com/favicon/www.iledcloud.cn"
+        },
+        {
+          "id": "site-1778118797422",
+          "name": "诺瓦 屏精灵",
+          "url": "https://cn.pingjl.com/#/login",
+          "description": "登录 | 屏精灵",
+          "icon": "https://cn.pingjl.com/favicon.ico"
+        },
+        {
+          "id": "site-1778118898252",
+          "name": "卡莱特 C-CLOUD",
+          "url": "http://ww1.colorlightcloud.com/",
+          "description": "C-CLOUD",
+          "icon": "http://ww1.colorlightcloud.com//favicon.ico"
+        },
+        {
+          "id": "site-1778119016769",
+          "name": "灰度 小灰云",
+          "url": "https://xiaohuiyun.cc/",
+          "description": "灰度「小灰云星空」- 数字化门店管理平台",
+          "icon": "https://xiaohuiyun.cc/favicon.ico"
+        }
+      ]
+    },
+    {
       "id": "my-favorites",
       "name": "搜索引擎",
       "icon": "🔍",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "site-1752649007053",
@@ -252,7 +288,7 @@ export const mockData = {
       "id": "ai-tools",
       "name": "AI智能",
       "icon": "🤖",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "chatgpt",
@@ -295,14 +331,14 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 4,
+      "order": 5,
       "sites": []
     },
     {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "bilibili",
