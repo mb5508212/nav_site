@@ -252,6 +252,20 @@ export const mockData = {
           "url": "https://admin.kystarcloud.com/login",
           "description": "凯视达 Kares",
           "icon": "https://admin.kystarcloud.com/favicon.ico"
+        },
+        {
+          "id": "site-1778119295607",
+          "name": "摩西尔云平台",
+          "url": "https://player.mooncell.cloud/login",
+          "description": "摩西尔云平台",
+          "icon": "https://player.mooncell.cloud/favicon.ico"
+        },
+        {
+          "id": "site-1778119638483",
+          "name": "研色 LED广告管理系统",
+          "url": "http://www.ledpub.com.cn/",
+          "description": "研色 LED广告管理系统",
+          "icon": ""
         }
       ]
     },
